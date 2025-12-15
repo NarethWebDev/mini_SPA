@@ -14,7 +14,7 @@ Permite:
 
 ---
 
-## ▶ Instalación y ejecución
+##  Instalación y ejecución
 
 ### Requisitos
 
@@ -156,3 +156,27 @@ Proporciona **feedback inmediato** sobre el cumplimiento de normas, reforzando e
 * **React** – Librería para interfaces de usuario.
 * **Vite** – Build tool rápido con HMR.
 * **TailwindCSS** – Estilos mpersonalizados y modo oscuro.
+
+---
+
+## Evidencias del Funcionamiento
+
+### Filtracion de normas por categoría
+<img width="1632" height="866" alt="image" src="https://github.com/user-attachments/assets/81efc7ac-5bc0-449c-bead-4be8c005f78d" />
+
+#### Contador de normas cumplidas
+<img width="1569" height="825" alt="image" src="https://github.com/user-attachments/assets/3c5968da-60d2-4a2f-b27a-145ccfd1604a" />
+
+<img width="1572" height="729" alt="image" src="https://github.com/user-attachments/assets/7168767c-483e-4d3c-a04e-c024110b3ee0" />
+
+### Agregar una nueva norma:
+<img width="1199" height="658" alt="image" src="https://github.com/user-attachments/assets/77a1e2f3-0291-4916-a152-19278490bd94" />
+
+<img width="789" height="410" alt="image" src="https://github.com/user-attachments/assets/a6c752a6-8653-401e-88e0-7fc3ca4bc4cc" />
+
+### Footer para la información de contacto
+<img width="1351" height="231" alt="image" src="https://github.com/user-attachments/assets/88f83b4e-9e20-4dd8-b6be-dc7b33f5e6f8" />
+
+
+
+
