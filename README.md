@@ -177,6 +177,9 @@ Proporciona **feedback inmediato** sobre el cumplimiento de normas, reforzando e
 ### Footer para la información de contacto
 <img width="1351" height="231" alt="image" src="https://github.com/user-attachments/assets/88f83b4e-9e20-4dd8-b6be-dc7b33f5e6f8" />
 
+### Página con diseño responsive:
+<img width="885" height="958" alt="image" src="https://github.com/user-attachments/assets/d433c2de-2741-4a4f-b8c1-1a337c72a4f4" />
+
 
 
 
